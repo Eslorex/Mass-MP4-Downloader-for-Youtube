@@ -10,7 +10,7 @@ It downloads the highest quality possible up to 1080p 60fps. Code is customizabl
 3. Input single or multiple URLs and press Enter twice.
 4. Done.
 
-Note: If ffmpeg is not valid. Spesify the ffmpeg.exe path. ffmpeg is included in package.
+Note: If ffmpeg is not valid. Spesify the ffmpeg.exe path. (.../ffmpeg/bin/ffmpeg.exe) ffmpeg is included in package.
 
 # At once: 
 
