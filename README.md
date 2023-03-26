@@ -24,3 +24,4 @@ As mentioned in the name, downloads the files by order. Use depending your deman
 # Known Issues
 
 I didn't test it too much. Seems like its working well.
+If you experience stutters on video, use different player.
