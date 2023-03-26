@@ -14,7 +14,7 @@ Note: If ffmpeg is not valid. Spesify the ffmpeg.exe path. (.../ffmpeg/bin/ffmpe
 
 # At once: 
 
-Just seperates the downloads to different threads and downloads them at once. Might slow down yourconnection.
+Just seperates the downloads to different threads and downloads them at once. Might slow down your connection.
 
 # By order:
 
