@@ -1,5 +1,6 @@
 # Youtube-MP4-Downloader-Mass-Download-
 Mass download youtube videos downloading them all at once or by order with really fast conversion using ffmpeg.
+It downloads the highest quality possible up to 1080p 60fps. Code is customizable to download higher qualities.
 
 ![Example Image](https://cdn.discordapp.com/attachments/610665263330885644/1089439919841230888/Screenshot_3.png)
 
