@@ -1,4 +1,4 @@
-Mass download youtube videos downloading them all at once or by order with really fast conversion using ffmpeg.
+Mass download youtube videos downloading them all at once (with multithreading) or by order with really fast conversion using ffmpeg.
 It downloads the highest quality possible up to 1080p 60fps. Code is customizable to download higher qualities.
 Its possible to download single videos too.
 
