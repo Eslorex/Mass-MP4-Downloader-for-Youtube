@@ -18,7 +18,7 @@ Be aware that the method "At once" downloads them at once it it suppose to be. S
 
 If you want to modify this code and rebuild it by yourself just download the source package and install pyinstaller (pip install pyinstaller) package for building it.
 
-pyinstaller --onefile --console --add-data "ffmpeg\\bin\\ffmpeg.exe;ffmpeg\\bin" by_order.py
+pyinstaller --onefile --console --add-data "ffmpeg\\bin\\ffmpeg.exe;ffmpeg\\bin" "by order.py"
 
 Running this command in source file will build it into one .exe file which will make the script work with ffmpeg package all the time.
 
