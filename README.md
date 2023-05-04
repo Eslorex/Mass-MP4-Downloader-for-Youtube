@@ -14,6 +14,13 @@ Both code is implementable to an UI application. I was just too lazy to do it an
 
 Be aware that the method "At once" downloads them at once it it suppose to be. So ridiculous amount of video links can kill your internet if its not good enough.
 
+# Possible modifications and rebuilding
+
+If you want to modify this code and rebuild it by yourself just download the source package and install pyinstaller (pip install pyinstaller) package for building it.
+pyinstaller --onefile --console --add-data "ffmpeg\\bin\\ffmpeg.exe;ffmpeg\\bin" by_order.py
+
+Running this command in source file will build it into one .exe file which will make the script work with ffmpeg package all the time.
+
 # Known Issues
 Working for shorts but not for playlist videos propably.
 If you experience stutters on video, use different player.
