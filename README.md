@@ -8,7 +8,7 @@ This project is implementable to an UI application. I was just too lazy to do it
 
 # Setup:
 1. Install everything in folder "Before launch" (Select "ADD to PATH" when installing Python)
-2. Start the application depending on your demand. (By order, At once)
+2. Start the application depending on your demand. (By order.exe, At once.exe)
 3. Input single or multiple URLs and press Enter twice.
 4. Done.
 
