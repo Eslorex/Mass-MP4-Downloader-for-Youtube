@@ -12,7 +12,7 @@ This project is implementable to an UI application. I was just too lazy to do it
 3. Input single or multiple URLs and press Enter twice.
 4. Done.
 
-Be aware that the method "At once" downloads them at once it it suppose to be. So ridiculous amount of video links can kill your internet if its not good enough.
+Be aware that the method "At once" downloads them at once it it suppose to be. So ridiculous amount of video links can slow down your internet if its not good enough.
 
 # Possible modifications and rebuilding
 
