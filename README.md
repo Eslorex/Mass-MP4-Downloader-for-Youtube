@@ -11,20 +11,7 @@ Its possible to download single videos too.
 3. Input single or multiple URLs and press Enter twice.
 4. Done.
 
-Note: If ffmpeg is not valid. Spesify the ffmpeg.exe path. (.../ffmpeg/bin/ffmpeg.exe) ffmpeg is included in package.
-
-# At once: 
-
-Just seperates the downloads to different threads and downloads them at once. Might slow down your connection.
-
-# By order:
-
-As mentioned in the name, downloads the files by order. Use depending your demands
-
-
 # Known Issues
 Working for shorts but not for playlist videos propably.
-
 I didn't test it too much. Seems like its working well.
-
 If you experience stutters on video, use different player.
