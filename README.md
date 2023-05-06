@@ -1,7 +1,7 @@
 # Behaviour
 Both scripts downloads the highest quality possible up to 1080p 60fps. Code is customizable to download higher qualities.
 
-Both of the scripts will create a file named "Videos" at the same path that it exists. Both scripts do/can feed the same file. When moved, they will create a new "Videos" file in the new location. 
+Both of the scripts will create a file named "Videos" at the same path that it exists. Both scripts do/can feed the same file. When moved, they will create a new "Videos" file in the new location. So its completely portable.
 
 This project is implementable to an UI application. I was just too lazy to do it and i hate designing UI.
 
