@@ -1,5 +1,5 @@
 # Behaviour
-Both scripts downloads the highest quality possible up to 1080p 60fps. Code is customizable to download higher qualities.
+Both scripts downloads the highest quality possible up to 1080p 60fps without losing quality during download/encoding progress. Code is customizable to download higher qualities. 
 
 Both of the scripts will create a file named "Videos" at the same path that it exists. Both scripts do/can feed the same file. When moved, they will create a new "Videos" file in the new location. So its completely portable.
 
